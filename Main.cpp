@@ -10,7 +10,7 @@ namespace GameConfig
 
     constexpr double PlayerY = 500.0;       // 自機のY座標（高さ）
     constexpr double PlayerMaxSpeed = 350.0;// 自機が1秒間に動ける最大スピード
-    constexpr double CooldownTime = 0.7;    // レーザーの充電にかかる時間（秒）
+    constexpr double CooldownTime = 0.75;    // レーザーの充電にかかる時間（秒）
 }
 
 // ==========================================
